@@ -1,0 +1,58 @@
+body {
+  background-color: whitesmoke;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 10%;
+}
+
+.div {
+  display: flex;
+  margin: 100px;
+ 
+}
+
+.azul {
+  background-color: blue;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+  
+}
+.azul h1 {
+  font-family: gabriola;
+  padding-top: 30%;
+}
+
+.rojo {
+  background-color: red;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.rojo h1 {
+    font-family: gabriola;
+    padding-top: 30%;
+  }
+
+.verde {
+  background-color: green;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.verde h1 {
+    font-family: gabriola;
+    padding-top: 30%;
+  }
+
+.amarillo {
+  background-color: yellow;
+  width: 200px;
+  height: 200px;
+  text-align: center;
+}
+.amarillo h1 {
+    font-family: gabriola;
+    padding-top: 30%;
+  }

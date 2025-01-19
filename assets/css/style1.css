@@ -1,0 +1,56 @@
+h1 {
+  font-family: Gabriola;
+  font-size: 50px;
+  text-align: center;
+  background-color: black;
+  color: white;
+  padding: 20px;
+}
+
+.padre {
+  display: flex;
+  justify-content: space-between;
+ 
+  
+}
+
+.hijo {
+  background-color: aqua;
+  height: 200px;
+  width: 300px;
+  text-align: center;
+  border-radius: 20px;
+ 
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  margin: 20px;
+  
+ 
+}
+
+.hijo a {
+  color: white;
+  text-decoration: none;
+  font-family: gabriola;
+  font-size: 60px;
+  
+}
+
+footer{
+    display: block;
+    text-align: center;
+    font-family: Gabriola;
+    font-size: 20px;
+    padding: 20px;
+    background-color: black;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    position: fixed;
+    left: 0;
+    right: 0;
+    margin-top: auto;
+
+}
